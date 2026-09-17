@@ -1,6 +1,0 @@
-State,District,Crop,Year,Yield_Ton_per_Ha,Avg_Market_Price (₹/Quintal),Profitability_Score,Soil_Type,pH,N (mg/kg),P (mg/kg),K (mg/kg),Annual_Rainfall_mm
-Maharashtra,pune,wheat,2020,2.4,1900,456.0,Black Cotton,6.5,250,45,300,1015.7
-Maharashtra,nashik,bajra,2020,1.9285714285714286,1600,308.57142857142856,Red Soil,6.2,180,30,250,1029.6
-Punjab,ludhiana,rice,2020,3.375,2200,742.5,Alluvial,7.1,270,50,320,685.6
-Karnataka,mysore,ragi,2021,1.5384615384615385,1750,269.2307692307692,Laterite,6.8,190,40,280,758.6
-Uttar Pradesh,meerut,sugarcane,2021,8.0,300,240.0,Clay Loam,7.0,220,35,290,918.0

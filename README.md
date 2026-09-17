@@ -1,26 +1,10 @@
-# 🌱 AgriCast – Agriculture Dataset for Yield and Profitability Analysis
+<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
 
-This repo contains a cleaned and merged dataset combining:
-- Crop production and yield
-- Soil nutrients (N, P, K, pH)
-- Annual rainfall
-- Market prices
+# yess
 
-## 📁 Files
+Here is the generated sample CSV file with more than 500 columns structured for global agricultural data analysis:
 
-- `final_agri_dataset.csv`: Cleaned dataset (CSV, ready for Power BI / ML)
-- `data_preparation.ipynb`: Optional Python script for merging/cleaning
+[Sample_Global_Agri_Wide_Format.csv]
 
-## 📊 Planned Dashboard (Power BI)
+If you want, I can now help you understand how to use this file in Power BI or how to merge your real data into it. Would you like next steps on importing, cleaning, or visualizing this data?
 
-- 📍 Treemap: Profitable crops by district
-- 📈 Line Chart: Market price trend per crop
-- 📉 Bar Chart: Average yield per crop
-- 🌧️ Scatter Plot: Rainfall vs Yield / Profitability
-- 🎛️ Slicers: Crop, Year, State
-
-📌 **Note:** Power BI dashboard in progress. Stay tuned!
-
----
-
-**Built for real-world agriculture intelligence.**
